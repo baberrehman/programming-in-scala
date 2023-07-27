@@ -7,4 +7,4 @@ lazy val root = (project in file("."))
     name := "scala-project"
   )
 
-scalacOptions += "-Yexplicit-nulls"
+//scalacOptions += "-Yexplicit-nulls"
